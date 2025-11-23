@@ -1,0 +1,5 @@
+{
+  "name": "MagazineMaestro 1.0",
+  "description": "An application that allows users to create a beautiful, A4-sized magazine layout from text content, using AI to generate covers and illustrations dynamically.",
+  "requestFramePermissions": []
+}
